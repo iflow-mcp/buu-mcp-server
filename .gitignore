@@ -5,3 +5,5 @@ dist
 .env
 dist*# Logs
 logs
+*.log
+serverConfig.json
