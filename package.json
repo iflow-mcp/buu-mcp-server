@@ -1,5 +1,5 @@
 {
-  "name": "buu-mcp-server",
+  "name": "@iflow-mcp/buu-mcp-server",
   "version": "0.1.0",
   "description": "",
   "main": "dist/index.js",
